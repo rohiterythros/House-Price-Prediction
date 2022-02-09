@@ -1,5 +1,5 @@
 # Project Name
-> Outline a brief description of your project.
+> Housing Price Prediction
 
 
 ## Table of Contents
@@ -11,34 +11,27 @@
 <!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
-- Provide general information about your project here.
-- What is the background of your project?
-- What is the business probem that your project is trying to solve?
-- What is the dataset that is being used?
+Using regression models, prospective housing prices are predicted.
+By predicting the prospective housing prices, decisions about whether to invest in them or not can be made.
+Historic housing price data is used.
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+Based on Lasso, the factors that generally affect the price are the Zoning classification, Living area square feet, Overall quality and condition of the house, Foundation type of the house, Number of cars that can be accomodated in the garage, Total basement area in square feet and the Basement finished square feet area
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 
 ## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
+Python 3
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
 ## Acknowledgements
 Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
+I thank IIIT-B and upGrad for the opportunity to do this project, therebey enabling me to learn about advanced regression techniques.
+Special thanks to my upGrad buddy Mr. Vishwesh Singh for all the help he's offered. 
 
 
 ## Contact
